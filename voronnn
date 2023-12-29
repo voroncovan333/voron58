@@ -1,0 +1,9 @@
+{
+    "Enable": false,
+    "Locale": ["Turkish"],
+    "Times": ["Istanbul", "Turkey"],
+    "Links": 
+    [ 
+          { "Lang":"Turkish", "Link": [""] }
+    ]
+ }
