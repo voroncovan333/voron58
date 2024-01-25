@@ -1,9 +1,10 @@
 {
-    "Enable": false,
-    "Locale": ["Turkish"],
-    "Times": ["Istanbul", "Turkey"],
+    "Enable": true,
+    "Locale": ["Portuguese", "Turkish"],
+    "Times": ["Turkey", "Istanbul", "Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "Links": 
     [ 
-          { "Lang":"Turkish", "Link": [""] }
+          { "Lang":"Turkish", "Link": ["https://csnpin.com/L8GzgmlP/"] },
+          { "Lang":"Portuguese", "Link": ["https://1wzmld.xyz/casino/list?open=register"] }
     ]
  }
